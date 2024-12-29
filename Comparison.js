@@ -42,3 +42,4 @@ console.log(undefined <0);
 // Now we do some strict Operations 
 console.log("2" === 2);
 
+// Here in strict operations which is === triple equal it also check the dataype of both the variables 

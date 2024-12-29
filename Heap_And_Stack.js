@@ -24,5 +24,9 @@ userTwo.Email="paras@email.com";
 console.log(userOne.Email);
 console.log(userTwo.Email);
 
+/* 
+here in both we got paras@gmail.com here we use array datatype to store the data  and it is non primitive datatype 
+it store in heap memory and it gives u the refernce of the object and both variables pointed to same obj 
+and if we change the value it reflect on boht sides
 
-
+*/
